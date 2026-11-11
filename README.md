@@ -43,6 +43,4 @@
 - **[MuseBot](https://github.com/yincongcyincong/MuseBot)** · 修复视频生成链路中的结果处理与响应关闭问题。已合并 [#72](https://github.com/yincongcyincong/MuseBot/pull/72) / [#74](https://github.com/yincongcyincong/MuseBot/pull/74)。
 - **[青简 Qingjian](https://github.com/qingjian-team/qingjian)** · 补全 Windows 候选生僻字的系统字体回退。已合并 [#793](https://github.com/qingjian-team/qingjian/pull/793)。
 
-**进行中** · [ComfyUI #17567](https://github.com/Comfy-Org/ComfyUI/pull/17567)：修复第三方 Spandrel 模型加载后放大节点因缺少 patcher 而报错的问题，补充回归测试；已通过自动检查，等待维护者评审。
-
 <p align="right"><a href="https://evenstar.love/">去暮星随笔看看 ↗</a></p>
